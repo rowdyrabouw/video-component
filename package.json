@@ -1,0 +1,19 @@
+{
+  "name": "@rowdy.rabouw/video-component",
+  "version": "1.0.0",
+  "description": "Video web component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowdyrabouw/video-component.git"
+  },
+  "author": "Rowdy Rabouw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rowdyrabouw/video-component/issues"
+  },
+  "homepage": "https://github.com/rowdyrabouw/video-component#readme"
+}
